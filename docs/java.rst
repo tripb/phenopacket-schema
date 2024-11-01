@@ -25,7 +25,7 @@ each of the examples for :ref:`rare disease <rstrarediseaseexamplejava>` and
 
 The Java code
 =============
-We show some Java code that demonstrates the basic methodology for building a Phenopacket. We have put the entire code into one function for didactic purposes, but real-life code might be more structured. We do define one auxialliary function
+We show some Java code that demonstrates the basic methodology for building a Phenopacket. We have put the entire code into one function for didactic purposes, but real-life code might be more structured. We do define one auxiliary function
 
 .. code-block:: java
 
